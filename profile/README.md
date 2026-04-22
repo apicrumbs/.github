@@ -16,8 +16,10 @@ Explore our federated library of expenditure ledgers. Each shard is a self-conta
 
 | Shard Registry | Region | Data Type | Status |
 | :--- | :--- | :--- | :--- |
-| [archive-cambs-council ↗] | Cambridgeshire | Expenses Ledger | 🟢 **DAILY_DELTA** |
-| [archive-suffolk-council ↗] | Suffolk | Expenses Ledger | 🟡 **STATIC_SNAPSHOT** |
+| [archive-cambs-council ↗](https://github.com/apicrumbs/cambridgeshire-county-council-expenses-2026-01-department-dossier) | Cambridgeshire | Expenses Ledger | 🟡 **STATIC_SNAPSHOT** |
+| [archive-suffolk-council ↗](https://github.com/apicrumbs/suffolk-county-council-expenses-2026-01-supplier-dossier) | Suffolk | Expenses Ledger | 🟡 **STATIC_SNAPSHOT** |
+| [archive-lincolnshire-council ↗]([https://github.com/apicrumbs/suffolk-county-council-expenses-2026-01-supplier-dossier](https://github.com/apicrumbs/lincolnshire-county-council-expenses-2026-01-supplier-dossier)) | Lincolnshire | Expenses Ledger | 🟡 **STATIC_SNAPSHOT** |
+| [archive-worcestershire-council ↗](https://github.com/apicrumbs/worcestershire-county-council-expenses-2026-01-department-dossier) | Worcestershire | Expenses Ledger | 🟡 **STATIC_SNAPSHOT** |
 
 ### 🚀 Why ApiCrumbs?
 *   **Token ROI:** Our "shredding" process reduces raw data noise by up to 94%, ensuring your LLM agents stay within context limits.
